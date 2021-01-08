@@ -1,16 +1,22 @@
 # video_player_demo
 
-A new Flutter project.
+A demo flutter project
 
-## Getting Started
+## Package Enhancements - vimeoplayer
 
-This project is a starting point for a Flutter application.
+- Original Version : [link](https://pub.dev/packages/vimeoplayer)
+  Enhanced Version : [link](https://github.com/nipun-solutelabs/vimeo_player_stl)
 
-A few resources to get you started if this is your first Flutter project:
+- this project shows how sample usage of enhanced version of package [vimeoplayer](https://github.com/nipun-solutelabs/vimeo_player_stl)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### new features
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Improved timing format of video player control i.e '01:00' instead of '1:0'
+- option to configure overlay timeout.
+- option to decide whether to start video with overlay(including controls) or not
+- Improved communication between original & full-screen mode by syncing state of video between both the modes.
+- option to customise the loading indicator color
+- option to customise the video controllers color (i.e setting, play, pause, etc...)
+- option to set background color in full-screen mode
+- disregards device screen/display timeout when video is playing
+- improved : quality(resolution) options are displayed in sorted order
