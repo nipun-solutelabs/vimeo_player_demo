@@ -5,9 +5,10 @@ A demo flutter project
 ## Package Enhancements - vimeoplayer
 
 - Original Version : [link](https://pub.dev/packages/vimeoplayer)
+  <br />
   Enhanced Version : [link](https://github.com/nipun-solutelabs/vimeo_player_stl)
 
-- this project shows how sample usage of enhanced version of package [vimeoplayer](https://github.com/nipun-solutelabs/vimeo_player_stl)
+- this project shows sample usage of enhanced version of package [vimeoplayer](https://github.com/nipun-solutelabs/vimeo_player_stl)
 
 ### new features
 
